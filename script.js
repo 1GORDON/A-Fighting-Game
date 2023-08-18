@@ -142,8 +142,8 @@ class Game {
 }
 
 // ** Create 2 players using the player class **
-let player1 = new Player("Lance", 100, 15);
-let player2 = new Player("Qazi", 100, 15);
+let player1 = new Player("Gordon", 100, 15);
+let player2 = new Player("Keine", 100, 15);
 
 // ** Save original Player Health in order to reset **
 let p1 = player1;
